@@ -1,0 +1,13 @@
+<map id="perso.c" name="perso.c">
+<area shape="rect" id="node1" title="Testing Program." alt="" coords="154,5,224,32"/>
+<area shape="rect" id="node2" href="$background_8h_source.html" title=" " alt="" coords="134,80,244,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="85,304,173,331"/>
+<area shape="rect" id="node4" title=" " alt="" coords="248,304,384,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="624,229,754,256"/>
+<area shape="rect" id="node6" href="$perso_8h_source.html" title=" " alt="" coords="382,155,452,181"/>
+<area shape="rect" id="node11" href="$personnage_8h_source.html" title=" " alt="" coords="134,155,244,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="542,304,612,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="433,304,500,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="181,229,290,256"/>
+<area shape="rect" id="node10" href="$ennemi_8h_source.html" title=" " alt="" coords="416,229,498,256"/>
+</map>
